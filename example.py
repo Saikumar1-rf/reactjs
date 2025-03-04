@@ -287,7 +287,7 @@
 #     def printname(self):
 #         print("Welcom",self.firstname,self.lastname,"to the class of ",self.graduationyear)
 # x=Student("john","saikumar",2023)
-# x.printname()
+
 
 class Car:
     def __init__(self,brand,model):
